@@ -1,0 +1,2 @@
+CONTAINER_NAME=geopostgis
+IMAGE_NAME=geopostgis

@@ -1,0 +1,2 @@
+recursive-include pg_geocoder/data/ *
+recursive-include pg_geocoder/models/ *
